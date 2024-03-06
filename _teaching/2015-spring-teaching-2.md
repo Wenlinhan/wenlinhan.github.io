@@ -7,7 +7,7 @@ venue: "CSUF, Computer Science"
 date: 2017-01-01
 location: "Fullerton, CA"
 ---
-Mainly talk about Solidity programming, NFTs, Defi. Students will get free TuffyToken upon course completion!
+Mainly talk about Solidity programming on Ethereum, NFTs, Defi. 
 
 Description & Objectives
 ======
