@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "@Winnihann"
+  username               : 
   card                   : summary
 facebook:
   username               :
@@ -95,7 +95,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "facebook.com/winni.han.3"
+  facebook         : #"facebook.com/winni.han.3"
   foursquare       :
   github           : "wenlinhan"
   google_plus      :
@@ -110,11 +110,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@Winnihann"
+  twitter          : #"@Winnihann"
   vine             :
   weibo            :
   xing             :
-  youtube          : "PeHBcuKLOlu2OsEWo3lyPA"
+  youtube          : #"PeHBcuKLOlu2OsEWo3lyPA"
   wikipedia        :
 
 
