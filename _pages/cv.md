@@ -62,8 +62,8 @@ Academic Membership
 
 University/College/Department Service
 ======
-- CS Undergrate Program, Coordinator, 2024-26 AY
-- CS Undergrate Committee, Chair, 2024-26 AY
+- CS Undergraduate Program, Coordinator, 2024-26 AY
+- CS Undergraduate Committee, Chair, 2024-26 AY
 - ECS Image Improvement Advisory Committee, Chair, 2018-19 AY
 - CS IRC, Chair, 2018-19, 2019-20 AY
 - ECS Curriculum Committee, 2022-23 AY
