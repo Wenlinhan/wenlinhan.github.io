@@ -25,7 +25,8 @@ ISSN Online:  2575-1719, 2018 – 2020, Editorial Board
 
 Academic chair/organizer
 =====
-ICAI'18 session chair
+- IEEE Computer Society Orange Chapter, Secretary, 2025
+- ICAI'18 session chair, 2018
 
 Reviewer
 ======
@@ -49,6 +50,8 @@ Impact Factor = 6.108. Ranked #6 in Artificial Intelligence by Google Scholar
 
 Academic Membership
 ======
+- Senior memeber, IEEE
+- IEEE Computer Society
 - IEEE Blockchain Community
 - IEEE Cybersecurity Community
 - IEEE Computer Society Special Technical Community on Blockchain
@@ -59,6 +62,8 @@ Academic Membership
 
 University/College/Department Service
 ======
+- CS Undergrate Program, Coordinator, 2024-26 AY
+- CS Undergrate Committee, Chair, 2024-26 AY
 - ECS Image Improvement Advisory Committee, Chair, 2018-19 AY
 - CS IRC, Chair, 2018-19, 2019-20 AY
 - ECS Curriculum Committee, 2022-23 AY
