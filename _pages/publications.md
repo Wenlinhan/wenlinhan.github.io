@@ -15,9 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 ===============
-- T. Mahjabin, A. Olteanu, Y. Xiao, W. Han, T. Li and W. Sun, "Corrections to “A Survey on DNA-Based Cryptography and Steganography”," in IEEE Access, vol. 12, pp. 99452-99452, July 2024, doi: 10.1109/ACCESS.2024.3423210.
-- Zhao, F., Yang, W., Han, W. (2025). Enhancing Student Classroom Behavior Detection Using Improved SlowFast. In: Cai, Z., Takabi, D., Guo, S., Zou, Y. (eds) Wireless Artificial Intelligent Computing Systems and Applications. WASA November 2024. Lecture Notes in Computer Science, vol 14997. Springer, Cham. [https://doi.org/10.1007/978-3-031-71464-1_24]
-- Fuzhe Zhao, Chaoge Huang, Han Xu, Wen Yang, Wenlin Han. RGMeta: Enhancing Cold-Start Recommendations with a Residual Graph Meta-Embedding Model. Electronics Sept. 2024, 13(17), 3473; [https://doi.org/10.3390/electronics13173473]
+- T. Mahjabin, A. Olteanu, Y. Xiao, W. Han, T. Li and W. Sun, "Corrections to “A Survey on DNA-Based Cryptography and Steganography”," in IEEE Access, vol. 12, pp. 99452-99452, July 2024, [https://doi: 10.1109/ACCESS.2024.3423210](https://doi: 10.1109/ACCESS.2024.3423210).
+- Zhao, F., Yang, W., Han, W. (2025). Enhancing Student Classroom Behavior Detection Using Improved SlowFast. In: Cai, Z., Takabi, D., Guo, S., Zou, Y. (eds) Wireless Artificial Intelligent Computing Systems and Applications. WASA November 2024. Lecture Notes in Computer Science, vol 14997. Springer, Cham. [https://doi.org/10.1007/978-3-031-71464-1_24](https://doi.org/10.1007/978-3-031-71464-1_24)
+- Fuzhe Zhao, Chaoge Huang, Han Xu, Wen Yang, Wenlin Han. RGMeta: Enhancing Cold-Start Recommendations with a Residual Graph Meta-Embedding Model. Electronics Sept. 2024, 13(17), 3473; [https://doi.org/10.3390/electronics13173473](https://doi.org/10.3390/electronics13173473)
 - Wenlin Han. The Role of Blockchain and Cryptocurrency in Smart Grid – Renewable Energy Trading, System Security and Privacy Preservation. In Handbook of Energy Systems. Springer. Oct. 2020.
 - Wenlin Han, Viet Duong, Long Nguyen, Caesar Mier, “Darknet and Bitcoin De-anonymization: Emerging Development,” IEEE 2020 Zooming Innovation in Consumer Technologies Conference (ZINC), pp. 222-226, Virtual, May 2020.
 - Austin Draper, Aryan Familrouhani, Devin Cao, Tevisophea Heng, and Wenlin Han, “Security Applications and Challenges in Blockchain,” IEEE International Conference on Consumer Electronics (ICCE’19), pp. 1-4, Las Vegas, USA, Jan. 11-13, 2019.
