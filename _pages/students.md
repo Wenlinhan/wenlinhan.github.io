@@ -8,6 +8,33 @@ redirect_from:
 ---
 
 {% include base_path %}
+Student Awards/Achievements
+========================
+- Dhara Panchal, Isaiah Inverary, and Julie Yun, won the second place in ESJ competition with the project HexCam, 2025.
+- Reece Bailey, Blockchain Club President, received Scholarship Award for her dedication and excellence in leadership which have inspired many students. November 18, 2024.
+- Blockchain Club President, Trisha Shaishav Parikh received Scholarship Award for her dedication and excellence in leadership which have inspired many students. November 18, 2022.
+- Yusuke Tomatsu graduated and accepted an offer from Avanade Inc. Tokyo, Japan, 2021.
+- Viet Duong, Long Nguyen and Caesar Mier published a paper at an international conference, 2020
+Wenlin Han, Viet Duong, Long Nguyen, Caesar Mier, “Darknet and Bitcoin De-anonymization: Emerging Development,” IEEE 2020 Zooming Innovation in Consumer Technologies Conference (ZINC), pp. 222-226, Virtual, May 2020.
+- Madhura Ansingkar published a paper at an international conference.
+Wenlin Han, Madhura Ansingkar, “Discovery of Elsagate: Detection of Sparse Inappropriate Content from Kids Videos,” IEEE 2020 Zooming Innovation in Consumer Technologies Conference (ZINC), pp. 46-47, Virtual, May 2020.
+- Yugali Bafna published a paper at an international conference.
+Wenlin Han, Yugali Bafna, “Automatic Privacy Preservation for User-based Data Sharing on Social Media,” IEEE 2020 Zooming Innovation in Consumer Technologies Conference (ZINC), pp. 227-230, Virtual, May 2020.
+- Yugali Bafna delivered a research talk at IEEE ZINC’20.
+- Yugali Bafna graduated and accepted an offer from Amazon. 2019. Congratulations!
+- Varshil Mehta’s paper (graduate student CPSC 481-04 Fall’18) accepted by IEEE ICII’19.
+- Jiacheng Li (MS) recommended and admitted to Ph.D. program of University of Alabama, Tuscaloosa, with full scholarship, 2019.
+- Arshya Sharifian (graduate student CPSC 481-04 Spr’18): his AI course project “Artificial Intelligence: Los Angeles Property Investment” won the third place and $750 Scholarship in CSUF Startup Competition Awards, April 2018.
+https://business.fullerton.edu/Center/Entrepreneurship/Business-Plan-Competition/BusinessCompetitionResults
+more info:
+https://business.fullerton.edu/Center/Entrepreneurship/Business-Plan-Competition/BusinessCompetitionAwards
+- Connor O’Donnell (graduate student CPSC 481-01 Fall’17): his AI course paper (after revision) was published at an international conference.
+
+Connor O’Donnell and Wenlin Han, “Recent Developments and Emerging Challenges in Deep Neural Networks for Cybersecurity and Other Applications,” The 20th International Conference on Artificial Intelligence (ICAI'18), pp. 112-118, Las Vegas, USA, July 30 - August 2, 2018.
+- Austin Draper, Aryan Familrouhani, Devin Cao, and Tevisophea Heng (undergraduate students CPSC 481-03 Spr’18): their course paper (after revision) was accepted to an international conference.
+
+Austin Draper, Aryan Familrouhani, Devin Cao, Tevisophea Heng, and Wenlin Han, “Security Applications and Challenges in Blockchain,” IEEE International Conference on Consumer Electronics (ICCE’19).
+
 Graduate students (partial list)
 ============
 - Shivba Pawar: graduate project supervisor, SPR’23
@@ -79,28 +106,3 @@ Graduate students (partial list)
 - Rushabhkumar Vijaykumar Shah:  research volunteer Spr’19
 - Jainam Mehta: student research assistant Fall’18, SPR’19
 - Samit Sharm: student research assistant Fall’18, SPR’19
-
-Student Awards/Achievements
-========================
-- Blockchain Club President, Trisha Shaishav Parikh received Scholarship Award for her dedication and excellence in leadership which have inspired many students. November 18, 2022.
-- Yusuke Tomatsu graduated and accepted an offer from Avanade Inc. Tokyo, Japan, 2021.
-- Viet Duong, Long Nguyen and Caesar Mier published a paper at an international conference, 2020
-Wenlin Han, Viet Duong, Long Nguyen, Caesar Mier, “Darknet and Bitcoin De-anonymization: Emerging Development,” IEEE 2020 Zooming Innovation in Consumer Technologies Conference (ZINC), pp. 222-226, Virtual, May 2020.
-- Madhura Ansingkar published a paper at an international conference.
-Wenlin Han, Madhura Ansingkar, “Discovery of Elsagate: Detection of Sparse Inappropriate Content from Kids Videos,” IEEE 2020 Zooming Innovation in Consumer Technologies Conference (ZINC), pp. 46-47, Virtual, May 2020.
-- Yugali Bafna published a paper at an international conference.
-Wenlin Han, Yugali Bafna, “Automatic Privacy Preservation for User-based Data Sharing on Social Media,” IEEE 2020 Zooming Innovation in Consumer Technologies Conference (ZINC), pp. 227-230, Virtual, May 2020.
-- Yugali Bafna delivered a research talk at IEEE ZINC’20.
-- Yugali Bafna graduated and accepted an offer from Amazon. 2019. Congratulations!
-- Varshil Mehta’s paper (graduate student CPSC 481-04 Fall’18) accepted by IEEE ICII’19.
-- Jiacheng Li (MS) recommended and admitted to Ph.D. program of University of Alabama, Tuscaloosa, with full scholarship, 2019.
-- Arshya Sharifian (graduate student CPSC 481-04 Spr’18): his AI course project “Artificial Intelligence: Los Angeles Property Investment” won the third place and $750 Scholarship in CSUF Startup Competition Awards, April 2018.
-https://business.fullerton.edu/Center/Entrepreneurship/Business-Plan-Competition/BusinessCompetitionResults
-more info:
-https://business.fullerton.edu/Center/Entrepreneurship/Business-Plan-Competition/BusinessCompetitionAwards
-- Connor O’Donnell (graduate student CPSC 481-01 Fall’17): his AI course paper (after revision) was published at an international conference.
-
-Connor O’Donnell and Wenlin Han, “Recent Developments and Emerging Challenges in Deep Neural Networks for Cybersecurity and Other Applications,” The 20th International Conference on Artificial Intelligence (ICAI'18), pp. 112-118, Las Vegas, USA, July 30 - August 2, 2018.
-- Austin Draper, Aryan Familrouhani, Devin Cao, and Tevisophea Heng (undergraduate students CPSC 481-03 Spr’18): their course paper (after revision) was accepted to an international conference.
-
-Austin Draper, Aryan Familrouhani, Devin Cao, Tevisophea Heng, and Wenlin Han, “Security Applications and Challenges in Blockchain,” IEEE International Conference on Consumer Electronics (ICCE’19).
