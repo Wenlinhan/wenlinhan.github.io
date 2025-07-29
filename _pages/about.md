@@ -42,13 +42,8 @@ Education
 * M.S. in Computer Science, Central China Normal University, China, 2005
 * B.S. in Computer Science, Central China Normal University, China, 2002
 
-[Blog Posts](https://wenlinhan.github.io/year-archive/)
-======
 
 [Publications](https://wenlinhan.github.io/publications/)
-======
-
-[Talks](https://wenlinhan.github.io/talks/)
 ======
 
 [Teaching](https://wenlinhan.github.io/teaching/)
