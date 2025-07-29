@@ -55,5 +55,5 @@ Education
 [Students](https://wenlinhan.github.io/students/)
 ======
 
-[Portfolio](https://wenlinhan.github.io/portfolio/)
+[Awards](https://wenlinhan.github.io/portfolio/)
 ======
