@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Wenlin Han is currently an associate professor (with early tenure and promotion), with [the Department of Computer Science, California State University, Fullerton, USA.](https://www.fullerton.edu/ecs/cs/faculty/) 
+Dr. Wenlin Han is currently an associate professor (tenured), with [the Department of Computer Science, California State University, Fullerton, USA.](https://www.fullerton.edu/ecs/cs/faculty/) 
 
-She is the director of [TuffyVerse Lab](https://tuffyverse-lab.github.io/), a multi-disciplinary research team on Web 3.0.
+Her research interests include Computer Science Education, AI, Cybersecurity, Applied Cryptography used in IoT, CPS, Blockchain and other latest applications. 
+
+She is IEEE senior member.
 
 She is a voting member of IEEE Blockchain Standard.
 
 She is a receipient of Unity & Meta Grant Award.
-
-中文名: 韩文琳
 
 More
 ======
@@ -30,30 +30,15 @@ She has served as an editor, PC member or reviewer for various international con
 
 She was rewarded as Outstanding Reviewer by International Journal of Electrical Power & Energy Systems, which is a journal ranked #4 in Power Engineering by Google Scholar. 
 
-She has been devoting herself into building a broader impact for minorities in Diversity, Equity and Inclusion.
-
 Research Interests
 ======
-Her research interests include Cybersecurity, Applied Cryptography used in IoT, CPS, Blockchain and other latest applications. 
-
-Recent Research/Innovation Interests
-======
-Metaverse, DeFi fraud/scam detection, NFTs, GameFi, SocialFi, Web 3.0, etc.
-
-[TuffyVerse Lab](https://tuffyverse-lab.github.io/)
-======
-Looking for highly self-motivated students to join us building a decentralized Crypto-driven Metaverse for Diversity, Equity and Inclusion!
-
-[Blockchain Club](https://tuffytoken.github.io/)
-======
-The Blockchain Lab is a community for advocates and beginners to explore areas such as NFTs, Crypto, Bitcoin, and other Blockchain technologies.
-
-Students, faculty and staff who are Crypto advocate are welcomed to join our [Discord](https://discord.gg/x9wZEXXFE6)
+Her research interests include Computer Science Education, AI, Cybersecurity, Applied Cryptography used in IoT, CPS, Blockchain and other latest applications. 
 
 Education
 ======
 * Ph.D in Computer Science, The University of Alabama, USA, 2017
 * M.S. in Computer Science, The University of Alabama, USA, 2014
+* Doctoral Candidate, Computer Science, Huazhong University of Science and Technology, 2011-2012
 * M.S. in Computer Science, Central China Normal University, China, 2005
 * B.S. in Computer Science, Central China Normal University, China, 2002
 
