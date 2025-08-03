@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Wenlin Han is currently an associate professor (tenured), with [the Department of Computer Science, California State University, Fullerton, USA.](https://www.fullerton.edu/ecs/cs/faculty/) 
+Dr. Winnie (Wenlin) Han is currently an associate professor (tenured), with [the Department of Computer Science, California State University, Fullerton, USA.](https://www.fullerton.edu/ecs/cs/faculty/) 
 
 Her research interests include Computer Science Education, AI, Cybersecurity, Applied Cryptography used in IoT, CPS, Blockchain and other latest applications. 
 
