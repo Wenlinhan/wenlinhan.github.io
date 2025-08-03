@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Wenlin Han is a tenured Associate Professor in the Department of Computer Science at California State University, Fullerton. 
+Dr. Wenlin Han is a tenured Associate Professor in [the Department of Computer Science at California State University, Fullerton](https://www.fullerton.edu/ecs/cs/faculty/). 
 
 She is an Award-Winning Researcher and Educator.
 
