@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Wenlin (Winnie) Han is currently an associate professor (tenured), with [the Department of Computer Science, California State University, Fullerton, USA.](https://www.fullerton.edu/ecs/cs/faculty/) 
+Dr. Wenlin Han is a tenured Associate Professor in the Department of Computer Science at California State University, Fullerton. 
 
-Her research interests include Computer Science Education, AI, Cybersecurity, Applied Cryptography used in IoT, CPS, Blockchain and other latest applications. 
+Her research and teaching focus on the integration of artificial intelligence in education and the enhancement of cybersecurity measures across various domains.
 
-She is IEEE senior member.
+She is an Award-Winning Researcher and Educator.
 
-She is a voting member of IEEE Blockchain Standard.
-
-She is a receipient of Unity & Meta Grant Award.
+She is an IEEE senior member.
 
 More
 ======
@@ -29,6 +27,10 @@ One paper was rewarded Best Paper Runner-up Award.
 She has served as an editor, PC member or reviewer for various international conferences and journals including IEEE Tran. on Information Forensics & Security, IEEE INFOCOM, Information Science, etc. 
 
 She was rewarded as Outstanding Reviewer by International Journal of Electrical Power & Energy Systems, which is a journal ranked #4 in Power Engineering by Google Scholar. 
+
+She is a voting member of IEEE Blockchain Standard.
+
+She is a receipient of Unity & Meta Grant Award.
 
 Research Interests
 ======
