@@ -10,9 +10,9 @@ redirect_from:
 
 Dr. Wenlin Han is a tenured Associate Professor in the Department of Computer Science at California State University, Fullerton. 
 
-Her research and teaching focus on the integration of artificial intelligence in education and the enhancement of cybersecurity measures across various domains.
-
 She is an Award-Winning Researcher and Educator.
+
+Her research and teaching focus on the integration of artificial intelligence in education and the enhancement of cybersecurity measures across various domains.
 
 She is an IEEE senior member.
 
