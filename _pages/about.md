@@ -34,7 +34,7 @@ She is a receipient of Unity & Meta Grant Award.
 
 Research Interests
 ======
-Her research interests include Computer Science Education, AI, Cybersecurity, Applied Cryptography used in IoT, CPS, Blockchain and other latest applications. 
+Her research interests include Computer Science Education, AI, Cybersecurity, Applied Cryptography used in IoT, CPS, Blockchain and other latest applications. Secure and Ethical AI Systems for Education and Society.
 
 Education
 ======
