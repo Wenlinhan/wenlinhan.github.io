@@ -28,7 +28,7 @@ She has served as an editor, PC member or reviewer for various international con
 
 She was rewarded as Outstanding Reviewer by International Journal of Electrical Power & Energy Systems, which is a journal ranked #4 in Power Engineering by Google Scholar. 
 
-She is a voting member of IEEE Blockchain Standard.
+She is a voting member of IEEE Standards.
 
 She is a receipient of Unity & Meta Grant Award.
 
